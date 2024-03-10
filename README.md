@@ -1,4 +1,4 @@
-##**Amazon Clone**
+**Amazon Clone**
 
 This project is a simple clone of the Amazon website created using HTML, CSS, and images. It aims to replicate the basic layout and design elements of the Amazon website for educational purposes.
 
