@@ -30,4 +30,4 @@ This project was created by Asra Mohammad.
 
 ### License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code for your own purposes.
+ Feel free to use and modify the code for your purposes.
